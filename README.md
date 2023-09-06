@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **aman2110113@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1x_bQPsjy5flAZ6n-NGF930faCVjsapE8/view?usp=share_link]([https://drive.google.com/file/d/1mNtZU0Csl2nAnb-8cEbCpQZfSWNwpU4M/view?usp=sharing](https://drive.google.com/file/d/1mNtZU0Csl2nAnb-8cEbCpQZfSWNwpU4M/view?usp=sharing))]
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1x_bQPsjy5flAZ6n-NGF930faCVjsapE8/view?usp=share_link]([https://drive.google.com/file/d/1mNtZU0Csl2nAnb-8cEbCpQZfSWNwpU4M/view?usp=sharing](https://drive.google.com/file/d/1mNtZU0Csl2nAnb-8cEbCpQZfSWNwpU4M/view?usp=sharing))]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
