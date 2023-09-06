@@ -2,9 +2,9 @@
 <h3 align="center">A passionate MERN Stack Developer from India</h3>
 <img align="right" width="400" alt="Coding Image" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
  
-- 🔭 I’m currently working on **MERN Chat Website**
+- 🔭 I’m currently working as **BACKEND INTERN**
 
-- 🌱 I’m currently learning **Next Js**
+- 🌱 I’m currently learning **NEXT JS & NEST JS**
 
 - 💬 Ask me about **React ,Javascript**
 
