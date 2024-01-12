@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **aman2110113@gmail.com**
 
-- 📄 Know about my experiences [AMAN KUMAR RESUME]([https://drive.google.com/file/d/1D9o8CW3dX0pmY97YErxF7fV3yRukktNm/view?usp=sharing](https://drive.google.com/file/d/1iAVq3EZeXuj__3lIvdtsjrKKYTex6BuT/view?usp=sharing))
+- 📄 Know about my experiences [AMAN KUMAR RESUME]([https://drive.google.com/file/d/1D9o8CW3dX0pmY97YErxF7fV3yRukktNm/view?usp=sharing])
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
