@@ -2,7 +2,8 @@
 <h3 align="center">A passionate MERN Stack Developer from India</h3>
 <img align="right" width="400" alt="Coding Image" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
- Profile Hits:[![HitCount](https://hits.dwyl.com/aman1205/Chat_Application.svg?style=flat-square)](http://hits.dwyl.com/aman1205/Chat_Application)
+ Profile Hits:[![HitCount](https://hits.dwyl.com/aman1205/aman1205.svg?style=flat-square)](http://hits.dwyl.com/aman1205/aman1205)
+
 
 - 🔭 I’m currently working as **BACKEND INTERN**
 
