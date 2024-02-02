@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working as **BACKEND INTERN**
 
-- 🌱 I’m currently learning **NEXT JS & NEST JS**
+- 🌱 I’m currently learning **NEXT JS **
 
 - 💬 Ask me about **React ,Javascript**
 
