@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **NEXT JS **
 
-- 💬 Ask me about **React ,Javascript**
+- 💬 Ask me about **MERN STACK **
 
 - 📫 How to reach me **aman2110113@gmail.com**
 
