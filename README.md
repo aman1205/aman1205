@@ -18,7 +18,7 @@
 <a href="https://instagram.com/aman_singh.9323" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aman_singh.9323" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/aman1205" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aman1205" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/aman9650" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="aman9650" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/aman1205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="aman9650" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/aman1205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aman1205" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:
