@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **MERN STACK **
   
-- Portfolio[amankumar.tech](http://amankumar.tech)
+- Portfolio [amankumar.tech](http://amankumar.tech)
 
 - 📫 How to reach me **aman2110113@gmail.com**
 
