@@ -2,7 +2,7 @@
 <h3 align="center">A passionate MERN Stack Developer from India</h3>
 <img align="right" width="400" alt="Coding Image" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 SDE-Intern@Xatge Ex-Frontend Intern@Betatest Solutions Ex-SDE Intern@Code Inbound LLP
+- 🔭 SDE-Intern@Xtage Ex-Frontend Intern@Betatest Solutions Ex-SDE Intern@Code Inbound LLP
 
 - 🌱 I’m currently learning **NEXT JS **
 
